@@ -1,4 +1,4 @@
-module github.com/doingodswork/stremio-top-movies
+module github.com/deflix-tv/stremio-film-festivals
 
 go 1.14
 
